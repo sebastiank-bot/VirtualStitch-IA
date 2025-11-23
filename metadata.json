@@ -1,0 +1,5 @@
+{
+  "name": "VirtualStitch AI",
+  "description": "A professional virtual try-on application powered by Gemini 2.5 Flash, allowing users to visualize outfits on specific models using reference images and descriptive prompts.",
+  "requestFramePermissions": []
+}
